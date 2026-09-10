@@ -290,7 +290,7 @@
     <div class="contact">
       <a href="mailto:xxliang.che@gmail.com">xxliang.che@gmail.com</a>
       <a href="https://github.com/XXXlG" target="_blank" rel="noopener">GitHub</a>
-      <a href="https://xxliang.top" target="_blank" rel="noopener">个人网站</a>
+      <a href="http://xxliang.top" target="_blank" rel="noopener">个人网站</a>
     </div>
   </section>
 
